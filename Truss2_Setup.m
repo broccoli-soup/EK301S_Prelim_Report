@@ -1,3 +1,5 @@
+clear nodes; 
+
 nodes(1).label = "A"; 
 nodes(1).pos = [-17, 0];
 nodes(1).reactions = [[1, 0]; [0, 1]];
